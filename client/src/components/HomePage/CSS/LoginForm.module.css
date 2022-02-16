@@ -1,0 +1,59 @@
+.container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  margin-bottom: 3em;
+}
+
+.input {
+  width: 100%;
+}
+
+.loginButton {
+  width: 100%;
+  height: 3.25rem;
+  background-color: #0b70f4 !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  margin: 0.75rem 0 !important;
+  text-decoration: none !important;
+  border-radius: 0.4rem !important;
+  text-transform: capitalize !important;
+}
+
+.loginButton:hover {
+  opacity: 0.9;
+}
+
+.loginButton:disabled {
+  background-color: #bdbdbd !important;
+}
+
+.newAccountButton {
+  width: 75% !important;
+  background-color: #258811 !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  margin: 1.25rem auto !important;
+  text-decoration: none !important;
+  border-radius: 0.4rem !important;
+  text-transform: capitalize !important;
+}
+
+.newAccountButton:hover {
+  opacity: 0.9;
+}
+
+.newAccountButton:disabled {
+  background-color: #bdbdbd !important;
+}
+
+.alerts {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 99999 !important;
+  border-radius: 0 !important;
+}

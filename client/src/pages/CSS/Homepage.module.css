@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.branding {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.brandLogo {
+  height: 112px;
+  width: 318px;
+  border: 0;
+}
+
+.brandText {
+  font-size: 2rem;
+  line-height: 2.25rem;
+  width: auto;
+  color: #1c1e21;
+  font-weight: 500;
+  margin-top: 0;
+  padding-left: 2.25rem;
+  width: 80%;
+}
+
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+  max-width: 400px;
+  padding: 1em;
+}

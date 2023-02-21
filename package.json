@@ -1,5 +1,5 @@
 {
-  "name": "facebook-clone",
+  "name": "facebook-login-page",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sneakyhydra/facebook-clone.git"
+    "url": "git+https://github.com/Sneakyhydra/Facebook-Login-Page.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sneakyhydra/facebook-clone/issues"
+    "url": "https://github.com/Sneakyhydra/Facebook-Login-Page/issues"
   },
-  "homepage": "https://github.com/Sneakyhydra/facebook-clone#readme",
+  "homepage": "https://github.com/Sneakyhydra/Facebook-Login-Page#readme",
   "devDependencies": {
     "concurrently": "^6.4.0",
     "nodemon": "^2.0.15"

@@ -1,3 +1,3 @@
-# Facebook-Clone
+# Facebook-Login-Page
 
-Run "npm run dev" command in root folder to run the server and frontend
+Run "npm install" and "npm install --prefix client" and "npm run dev" in the root directory to start the app.
